@@ -4,7 +4,7 @@
 
 "rsids.txt" :
 
-chip-seq data
+microarray data
 
  Annotation	Chr	Position	Genotypes
   
